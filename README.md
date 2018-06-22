@@ -1,0 +1,2 @@
+# websocketManager
+简化webscoket使用，不需要去关注何时断线何时重连，只需要传是否需要激活这一个参数
