@@ -15,4 +15,4 @@
 
 设计流程图：
 WebsocketManager：https://www.processon.com/view/link/5b2153e2e4b02e4b270751f7
-wsStatus：https://www.processon.com/view/link/5b2153e2e4b02e4b270751f7
+wsStatus：https://www.processon.com/view/link/5b2124a0e4b0a838a0925928
